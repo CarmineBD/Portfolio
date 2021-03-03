@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Carmine Buonaiuto</title>
+	<style type="text/css">
+		:root{
+			font-family: helvetica;
+		}
+
+		*{
+			margin: 0;
+			padding: 0;
+		}
+
+		a{
+			text-decoration: none;
+		}
+
+		ul{
+			list-style: none;
+		}
+
+		body{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		img{
+			width: 100%;
+		}
+
+		.vacio{
+
+			height: 50vh;
+			background-color: #f0f;
+		}
+
+		::selection{
+		 background: rgba(242,102,53,0.5);
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+		nav{
+			transform: skewX(-20deg);
+			z-index: 10;
+			background: linear-gradient(294deg, rgba(242,102,53,1) 0%, rgba(230,57,70,1) 100%);
+			position: sticky;
+			top: 0%;
+			width: 	110%;
+			height: 40px;
+			transition: 0.3s;
+		}
+
+		nav ul{
+			display: flex;
+			width: 100%;
+			height: 100%;
+			justify-content: space-around;
+		}
+
+		nav ul li{
+			position: relative;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+
+		}
+
+		nav ul li:hover div{
+			width: 20vw;
+		}
+
+		nav ul li:hover ul{
+			height: 300px;
+			width: 20vw;
+		}
+
+		nav ul li div{
+			position: absolute;
+			/*background: linear-gradient(294deg, rgba(242,102,53,1) 0%, rgba(235,207,40,0.4) 100%);*/
+			background-color: #f1faee;
+			opacity: 25%;
+			width: 0%;
+			height: 100%;
+			/*transform: skewX(-20deg);*/
+			
+			transition: 0.2s;
+		}
+
+		nav ul li a{
+			transform: skewX(20deg);
+			z-index: 2;
+			color: #fff;
+			font-weight: bold;
+		}
+
+		nav:hover{
+			height: 60px;
+		}
+
+		nav>ul>li>ul{
+			display: flex;
+			flex-direction: column;
+			justify-content: flex-end;
+			align-items: center;
+			top: 0px;
+			overflow: hidden;
+			position: absolute;
+			/*transform: skewX(-20deg);*/
+			width: 0vw;
+			height: 300px;
+
+			transition: 0.3s;
+			/*display: none;*/
+		}
+
+
+		nav>ul>li>ul>li{
+			/*transform: skewX(20deg);*/
+			height: 60px;
+			background: linear-gradient(294deg, rgba(242,102,53,1) 0%, rgba(230,57,70,1) 100%);
+			width: 25vw;
+			
+		}
+
+		nav>ul>li>ul>li div{
+			width: 100%;
+			right: 20vw;
+		}
+
+		nav>ul>li>ul>li:hover div{
+			right: 2.5vw;
+		}
+
+
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+		header{
+			height: 100vh;
+			overflow: hidden;
+			display: flex;	
+			justify-content: space-around;	
+			background-image: url(img/background.jpg);
+			background-position: center;
+			background-attachment: fixed;
+			background-size: cover;
+			background-repeat: no-repeat;
+			width: 	100%;
+			/*height: 700px;*/
+
+		}
+
+		header section{
+			flex: 1;
+		}
+
+		header section:nth-of-type(1){
+			
+		}
+
+		header section:nth-of-type(2){
+
+			height: 100vh;
+			transform: skewX(20deg);
+			position: relative;
+			flex-direction: column;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			/*margin: 5%;*/
+		
+		
+
+		}
+
+		header section:nth-of-type(2) article{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			position: relative;
+			opacity: 0%;
+			background-color: rgba(0,0,0,0.3);
+			width: 100%;
+			height: 100%;
+			color: #fff;
+
+			animation-name: inicioarticle;
+			animation-duration: 0.7s;
+			animation-delay: 0s;
+			animation-play-state: running;
+			animation-iteration-count: 1;
+			animation-timing-function: cubic-bezier(0,.52,.47,1);
+			animation-fill-mode: forwards;
+		}
+
+		header section:nth-of-type(2)>article h1{
+			opacity: 0%;
+			transform: skewX(-20deg);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-size: 3vw;
+			font-variant: small-caps;
+			font-weight: bold;
+			text-align: center;
+
+			animation-name: inicioh1;
+			animation-duration: 1s;
+			animation-delay: 0.7s;
+			animation-play-state: running;
+			animation-iteration-count: 1;
+			animation-timing-function: linear;
+			animation-fill-mode: forwards;
+
+		}
+
+		header section:nth-of-type(2)>article hr{
+			transform: skewX(-20deg);
+			width: 0%;
+			margin: 3vh;
+			opacity: 0%;
+
+			animation-name: iniciohr;
+			animation-duration: 1s;
+			animation-delay: 0.7s;
+			animation-play-state: running;
+			animation-iteration-count: 1;
+			animation-timing-function: ease-out;
+			animation-fill-mode: forwards;
+		}
+
+		header section:nth-of-type(2)>article h2{
+			transform: skewX(-20deg);
+			overflow: hidden;
+			font-size: 2vw;
+			
+			animation-name: inicioh2;
+			animation-duration: 1s;
+			animation-delay: 1.7s;
+			animation-play-state: running;
+			animation-iteration-count: 1;
+			animation-timing-function: ease-out;
+			animation-fill-mode: backwards;
+			color: #fff;
+		}
+
+		
+
+
+
+		@keyframes inicioarticle{
+			0%{top: 100vh; opacity: 0%;}
+			100%{top: 0vh; opacity: 100%;}
+		}
+
+		@keyframes inicioh1{
+			0%{ opacity: 0%;}
+			100%{ opacity: 100%;}
+		}
+
+		@keyframes iniciohr{
+			0%{width: 0%; opacity: 100%;}
+			100%{width: 80%; opacity: 100%;}
+		}
+
+		@keyframes inicioh2{
+			0%{opacity: 0%;}
+			100%{opacity: 100%;}
+		}
+
+
+
+		header section:nth-of-type(2)>article p{
+			text-align: justify;
+			font-size: 1.2vw;
+		}
+
+		header div{
+			position: relative;
+			background-image: linear-gradient(to top,  rgba(37,36,34,0.8) , rgba(0,0,0,0));
+			display: flex;	
+			justify-content: space-around;	
+			width: 	100%;
+			/*height: 700px;*/
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		main{
+			background-color: #f0f;
+			display: flex;
+			grid-template-columns: 20% auto 20%;
+			
+			width: 100%;
+			background-color: #FFFCF2;
+		}
+
+		main>section{
+			position: relative;
+			flex: 1;
+		}
+
+		main>section:nth-of-type(1){
+			background-color: #eee;
+		}
+
+		main>section:nth-of-type(2){
+			background-color: #f1faee;
+			flex: 2;
+
+		}
+
+		main>section:nth-of-type(3){
+			background-color: #eee;
+		}
+
+		main>section>article{
+			color: #1d3557;
+			height: 200vh;
+			background-color: #f1faee;
+		}
+
+		main>section>article:nth-of-type(odd){
+			background-color: #fff;
+		}
+
+		main>section:nth-of-type(2)>article>h2{
+			font-size: calc(20px + 0.5vw);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			width: 100%;
+			height: calc(5vh + 5vw);
+			background-color: #fff;
+			position: sticky;
+			top: 60px;
+			margin-bottom: 20vh;
+		}
+
+		main>section:nth-of-type(2)>article>p{
+			position: sticky;
+			top: 40vh;
+			background-color: #a8dadc;
+			padding: 1vh 1vw 1vh 1vw;
+			font-size: calc(15px + 0.3vw);
+			/*height: calc(5vh + 5vw);*/
+		}
+
+		main>section:nth-of-type(2)>article:nth-of-type(odd)>h2{
+			background-color: #f1faee;
+		}
+
+		main>section:nth-of-type(2)>article>h2:nth-of-type(odd)>p{
+			background-color: #f1faee;			
+		}
+
+	
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	</style>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li>
+				<div></div>
+				<a href="#">Inicio</a>
+			</li>
+			<li>
+				<div></div>
+				<a href="#">Conocimientos</a>
+				<ul>
+					<li><div></div><a href="#">Proyectos</a></li>
+					<li><div></div><a href="#">HTML</a></li>
+					<li><div></div><a href="#">CSS</a></li>
+					<li><div></div><a href="#">JavaScript</a></li>
+				</ul>
+			</li>
+			<li>
+				<div></div>
+				<a href="#">Contáctame</a>
+			</li>
+		</ul>
+	</nav>
+
+
+
+	<header>
+		<div>
+			<section>
+			</section>
+			<section>
+				<article>
+					<h1>
+						Carmine 
+						<br/>
+						Buonaiuto
+					</h1>
+					<hr/>
+					<h2>Front-End Developer y diseño</h2>
+				</section>
+			</article>
+		</div>
+	</header>
+
+
+
+
+
+
+
+	<main>
+		<section>
+			<article>
+				<figure>
+					<img src="img/barcelona.jpg">
+				</figure>
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+
+		</section>
+
+		<section>
+			<article>
+				<h2>¿Quien soy?</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</article>
+			<article>
+				<h2>¿Que ofrezco?</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</article>
+
+			<article>
+				<h2>Objetivo Profesional</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</article>
+
+			<article>
+				<h2>Mis habilidades</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</article>
+
+			<article>
+				<h2>Formas de trabajar</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</article>
+
+			<article>
+				<h2>Mis habilidades</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</article>
+
+
+
+		</section>
+		<section>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+			<article>
+				
+			</article>
+
+			
+		</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+		<section>
+			explicación extensa
+			<h2></h2>
+			<section>
+				<figure>
+					<img src="" alt="" title=""/>
+				</figure>
+				<article>
+					
+				</article>
+				<article>
+					<article></article>
+					<article></article>
+				</article>
+			</section>		
+		</section>
+ -->
+
+
+
+
+
+
+
+
+	</main>
+</body>
+</html>
+
+
+<!-- 
+Estudié 2 años arquitectura  en la universidad que sin duda alguna siento aún pasión por la carrera, por motivos de las circunstancias que estaba atravesando mi país tuve la oportunidad de Irme a Barcelona (donde actualmente resido) y comenzar de cero nuevamente.
+
+Llevo 1 año y medio en Barcelona, en este transcurso de tiempo he crecido mucho, madurado, independizado de mis padres y adquirí experiencia laboral que me ha ayudado a entender el funcionamiento del sistema laboral.
+
+Me quedé sin trabajo y sin ayudas económicas en tiempos de pandemia, toqué fondo y pensé regresar con mi familia. Pero supe hacer que esta circunstancia jugara a mi favor, tuve la oportunidad de entrar a un bootcamp de formación, y aunque no se parecía mucho a lo que inicialmente estaba estudiando en mi país, sin duda alguna es algo que me ha gustado y siempre me ha gustado mucho. 
+
+He recibido mucho feedback positivo por parte de los alumnos y del profesor. Gracias a mis conocimientos previos en arquitectura me han ayudado a destacarme al momento de implementar o desarrollar un diseño.
+
+Actualmente estoy terminando el curso de formación y estoy en la búsqueda de puestos de trabajos que encajen con mi perfil de programación y diseño. Tengo muchas ganas de aprender cada vez más, adquirir experiencia y conocer gente nueva en la que me acompañe en futuros proyectos.
+
+ -->
+
+
+<!-- <h2>¡Hola!</h2>
+<p>Soy <b>Carmine Buonaiuto</b> y me apasiona el mundo de la programación y la informática
+en general, todo lo que he aprendido en mis inicios y los
+proyectos que he realizado han sido por <b>cuenta propia</b> ya que
+es un tema que me atrae naturalmente.</p>
+<br/>
+<p>Actualmente tengo
+conocimientos de lenguajes como <b>HTML5, CSS y JavaScript</b>.
+Me destaco en la creatividad y en el diseño al momento de
+realizar una página web responsiva. Mi objetivo es ampliar
+mis conocimientos en un ámbito profesional y adquirir
+experiencia laboral.</p>
+<p>Soy <b>Carmine Buonaiuto</b> y me apasiona el mundo de la programación y la informática
+en general, todo lo que he aprendido en mis inicios y los
+proyectos que he realizado han sido por <b>cuenta propia</b> ya que
+es un tema que me atrae naturalmente.</p>
+<br/>
+<p>Actualmente tengo
+conocimientos de lenguajes como <b>HTML5, CSS y JavaScript</b>.
+Me destaco en la creatividad y en el diseño al momento de
+realizar una página web responsiva. Mi objetivo es ampliar
+mis conocimientos en un ámbito profesional y adquirir
+experiencia laboral.</p> -->

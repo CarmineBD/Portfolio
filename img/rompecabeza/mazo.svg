@@ -1,0 +1,676 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1700" viewBox="0 0 1700 1700">
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-11968 987)">
+    <g id="pieza5" transform="translate(0 -394)">
+      <path id="pieza5-2" data-name="pieza5" d="M200,350V300H100V200H50a50,50,0,1,1,0-100h50V0H200V0H300V0H400V100h50a50,50,0,1,1,0,100H400V300H300v50a50,50,0,1,1-100,0Z" transform="translate(12067.999 207) rotate(-90)" fill="#325971"/>
+      <rect id="Rectángulo_1684" data-name="Rectángulo 1684" width="100" height="100" transform="translate(11968 -293)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1688" data-name="Rectángulo 1688" width="100" height="100" transform="translate(11968 -93)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1686" data-name="Rectángulo 1686" width="100" height="100" transform="translate(11968 -193)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1696" data-name="Rectángulo 1696" width="100" height="100" transform="translate(11968 7)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1704" data-name="Rectángulo 1704" width="100" height="100" transform="translate(11968 107)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1685" data-name="Rectángulo 1685" width="100" height="100" transform="translate(12068 -293)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1689" data-name="Rectángulo 1689" width="100" height="100" transform="translate(12068 -93)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1687" data-name="Rectángulo 1687" width="100" height="100" transform="translate(12068 -193)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1697" data-name="Rectángulo 1697" width="100" height="100" transform="translate(12068 7)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1705" data-name="Rectángulo 1705" width="100" height="100" transform="translate(12068 107)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1690" data-name="Rectángulo 1690" width="100" height="100" transform="translate(12168 -293)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1691" data-name="Rectángulo 1691" width="100" height="100" transform="translate(12168 -93)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1692" data-name="Rectángulo 1692" width="100" height="100" transform="translate(12168 -193)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1698" data-name="Rectángulo 1698" width="100" height="100" transform="translate(12168 7)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1706" data-name="Rectángulo 1706" width="100" height="100" transform="translate(12168 107)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1693" data-name="Rectángulo 1693" width="100" height="100" transform="translate(12268 -293)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1694" data-name="Rectángulo 1694" width="100" height="100" transform="translate(12268 -93)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1695" data-name="Rectángulo 1695" width="100" height="100" transform="translate(12268 -193)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1699" data-name="Rectángulo 1699" width="100" height="100" transform="translate(12268 7)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1707" data-name="Rectángulo 1707" width="100" height="100" transform="translate(12268 107)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1700" data-name="Rectángulo 1700" width="100" height="100" transform="translate(12368 7)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1708" data-name="Rectángulo 1708" width="100" height="100" transform="translate(12368 107)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1701" data-name="Rectángulo 1701" width="100" height="100" transform="translate(12368 -193)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1702" data-name="Rectángulo 1702" width="100" height="100" transform="translate(12368 -293)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1703" data-name="Rectángulo 1703" width="100" height="100" transform="translate(12368 -93)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza1" transform="translate(-473)">
+      <path id="pieza1-2" data-name="pieza1" d="M400,300H300V250a50,50,0,1,0-100,0v50H100V200h50a50,50,0,1,0,0-100H100V0H200V0H300V0H400V100H350a50,50,0,1,0,0,100h50V300Z" transform="translate(12740.999 -887.001)" fill="#325971"/>
+      <rect id="Rectángulo_1729" data-name="Rectángulo 1729" width="100" height="100" transform="translate(12741 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1730" data-name="Rectángulo 1730" width="100" height="100" transform="translate(12741 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1731" data-name="Rectángulo 1731" width="100" height="100" transform="translate(12741 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1732" data-name="Rectángulo 1732" width="100" height="100" transform="translate(12741 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1733" data-name="Rectángulo 1733" width="100" height="100" transform="translate(12741 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1721" data-name="Rectángulo 1721" width="100" height="100" transform="translate(12841 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1722" data-name="Rectángulo 1722" width="100" height="100" transform="translate(12841 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1723" data-name="Rectángulo 1723" width="100" height="100" transform="translate(12841 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1724" data-name="Rectángulo 1724" width="100" height="100" transform="translate(12841 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1725" data-name="Rectángulo 1725" width="100" height="100" transform="translate(12841 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1717" data-name="Rectángulo 1717" width="100" height="100" transform="translate(12941 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1718" data-name="Rectángulo 1718" width="100" height="100" transform="translate(12941 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1719" data-name="Rectángulo 1719" width="100" height="100" transform="translate(12941 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1720" data-name="Rectángulo 1720" width="100" height="100" transform="translate(12941 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1726" data-name="Rectángulo 1726" width="100" height="100" transform="translate(12941 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1712" data-name="Rectángulo 1712" width="100" height="100" transform="translate(13041 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1713" data-name="Rectángulo 1713" width="100" height="100" transform="translate(13041 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1714" data-name="Rectángulo 1714" width="100" height="100" transform="translate(13041 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1715" data-name="Rectángulo 1715" width="100" height="100" transform="translate(13041 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1727" data-name="Rectángulo 1727" width="100" height="100" transform="translate(13041 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1716" data-name="Rectángulo 1716" width="100" height="100" transform="translate(13141 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1728" data-name="Rectángulo 1728" width="100" height="100" transform="translate(13141 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1709" data-name="Rectángulo 1709" width="100" height="100" transform="translate(13141 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1710" data-name="Rectángulo 1710" width="100" height="100" transform="translate(13141 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1711" data-name="Rectángulo 1711" width="100" height="100" transform="translate(13141 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza15" transform="translate(50 -1382)">
+      <path id="pieza15-2" data-name="pieza15" d="M300,400H0V300H50a50,50,0,1,0,0-100H0V100H100v0h0V50a50,50,0,1,1,100,0v50H300V200H250a50,50,0,1,0,0,100h50V400h0Z" transform="translate(12418 1395) rotate(90)" fill="#325971"/>
+      <rect id="Rectángulo_1825" data-name="Rectángulo 1825" width="100" height="100" transform="translate(11918 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1826" data-name="Rectángulo 1826" width="100" height="100" transform="translate(11918 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1827" data-name="Rectángulo 1827" width="100" height="100" transform="translate(11918 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1828" data-name="Rectángulo 1828" width="100" height="100" transform="translate(11918 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1829" data-name="Rectángulo 1829" width="100" height="100" transform="translate(11918 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1818" data-name="Rectángulo 1818" width="100" height="100" transform="translate(12018 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1819" data-name="Rectángulo 1819" width="100" height="100" transform="translate(12018 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1820" data-name="Rectángulo 1820" width="100" height="100" transform="translate(12018 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1821" data-name="Rectángulo 1821" width="100" height="100" transform="translate(12018 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1830" data-name="Rectángulo 1830" width="100" height="100" transform="translate(12018 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1815" data-name="Rectángulo 1815" width="100" height="100" transform="translate(12118 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1816" data-name="Rectángulo 1816" width="100" height="100" transform="translate(12118 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1817" data-name="Rectángulo 1817" width="100" height="100" transform="translate(12118 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1822" data-name="Rectángulo 1822" width="100" height="100" transform="translate(12118 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1831" data-name="Rectángulo 1831" width="100" height="100" transform="translate(12118 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1811" data-name="Rectángulo 1811" width="100" height="100" transform="translate(12218 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1812" data-name="Rectángulo 1812" width="100" height="100" transform="translate(12218 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1813" data-name="Rectángulo 1813" width="100" height="100" transform="translate(12218 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1823" data-name="Rectángulo 1823" width="100" height="100" transform="translate(12218 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1832" data-name="Rectángulo 1832" width="100" height="100" transform="translate(12218 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1824" data-name="Rectángulo 1824" width="100" height="100" transform="translate(12318 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1833" data-name="Rectángulo 1833" width="100" height="100" transform="translate(12318 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1810" data-name="Rectángulo 1810" width="100" height="100" transform="translate(12318 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1809" data-name="Rectángulo 1809" width="100" height="100" transform="translate(12318 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1814" data-name="Rectángulo 1814" width="100" height="100" transform="translate(12318 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza21" transform="translate(-473 -1876)">
+      <path id="pieza21-2" data-name="pieza21" d="M300,400H200V350a50,50,0,1,0-100,0v50H0V100H100V50a50,50,0,1,1,100,0v50H300V200h50a50,50,0,1,1,0,100H300V400h0Z" transform="translate(12741 2489) rotate(-90)" fill="#325971"/>
+      <rect id="Rectángulo_1875" data-name="Rectángulo 1875" width="100" height="100" transform="translate(12741 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1876" data-name="Rectángulo 1876" width="100" height="100" transform="translate(12741 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1877" data-name="Rectángulo 1877" width="100" height="100" transform="translate(12741 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1878" data-name="Rectángulo 1878" width="100" height="100" transform="translate(12741 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1879" data-name="Rectángulo 1879" width="100" height="100" transform="translate(12741 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1868" data-name="Rectángulo 1868" width="100" height="100" transform="translate(12841 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1869" data-name="Rectángulo 1869" width="100" height="100" transform="translate(12841 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1870" data-name="Rectángulo 1870" width="100" height="100" transform="translate(12841 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1871" data-name="Rectángulo 1871" width="100" height="100" transform="translate(12841 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1880" data-name="Rectángulo 1880" width="100" height="100" transform="translate(12841 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1865" data-name="Rectángulo 1865" width="100" height="100" transform="translate(12941 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1866" data-name="Rectángulo 1866" width="100" height="100" transform="translate(12941 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1867" data-name="Rectángulo 1867" width="100" height="100" transform="translate(12941 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1872" data-name="Rectángulo 1872" width="100" height="100" transform="translate(12941 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1881" data-name="Rectángulo 1881" width="100" height="100" transform="translate(12941 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1861" data-name="Rectángulo 1861" width="100" height="100" transform="translate(13041 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1862" data-name="Rectángulo 1862" width="100" height="100" transform="translate(13041 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1863" data-name="Rectángulo 1863" width="100" height="100" transform="translate(13041 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1873" data-name="Rectángulo 1873" width="100" height="100" transform="translate(13041 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1882" data-name="Rectángulo 1882" width="100" height="100" transform="translate(13041 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1874" data-name="Rectángulo 1874" width="100" height="100" transform="translate(13141 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1883" data-name="Rectángulo 1883" width="100" height="100" transform="translate(13141 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1860" data-name="Rectángulo 1860" width="100" height="100" transform="translate(13141 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1859" data-name="Rectángulo 1859" width="100" height="100" transform="translate(13141 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1864" data-name="Rectángulo 1864" width="100" height="100" transform="translate(13141 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza16" transform="translate(-473 -1332)">
+      <path id="pieza16-2" data-name="pieza16" d="M100,350V300H0V200H50a50,50,0,1,0,0-100H0V0H100V50c0,.074,0,.15,0,.224V50.5A50,50,0,0,0,200,50V0H300V100h50a50,50,0,1,1,0,100H300V300H200v50a50,50,0,1,1-100,0Zm200-50Z" transform="translate(12840.999 1645) rotate(-90)" fill="#457b9d"/>
+      <rect id="Rectángulo_1975" data-name="Rectángulo 1975" width="100" height="100" transform="translate(12741 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1976" data-name="Rectángulo 1976" width="100" height="100" transform="translate(12741 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1977" data-name="Rectángulo 1977" width="100" height="100" transform="translate(12741 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1978" data-name="Rectángulo 1978" width="100" height="100" transform="translate(12741 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1979" data-name="Rectángulo 1979" width="100" height="100" transform="translate(12741 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1968" data-name="Rectángulo 1968" width="100" height="100" transform="translate(12841 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1969" data-name="Rectángulo 1969" width="100" height="100" transform="translate(12841 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1970" data-name="Rectángulo 1970" width="100" height="100" transform="translate(12841 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1971" data-name="Rectángulo 1971" width="100" height="100" transform="translate(12841 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1980" data-name="Rectángulo 1980" width="100" height="100" transform="translate(12841 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1965" data-name="Rectángulo 1965" width="100" height="100" transform="translate(12941 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1966" data-name="Rectángulo 1966" width="100" height="100" transform="translate(12941 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1967" data-name="Rectángulo 1967" width="100" height="100" transform="translate(12941 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1972" data-name="Rectángulo 1972" width="100" height="100" transform="translate(12941 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1981" data-name="Rectángulo 1981" width="100" height="100" transform="translate(12941 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1961" data-name="Rectángulo 1961" width="100" height="100" transform="translate(13041 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1962" data-name="Rectángulo 1962" width="100" height="100" transform="translate(13041 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1963" data-name="Rectángulo 1963" width="100" height="100" transform="translate(13041 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1973" data-name="Rectángulo 1973" width="100" height="100" transform="translate(13041 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1982" data-name="Rectángulo 1982" width="100" height="100" transform="translate(13041 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1974" data-name="Rectángulo 1974" width="100" height="100" transform="translate(13141 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1983" data-name="Rectángulo 1983" width="100" height="100" transform="translate(13141 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1960" data-name="Rectángulo 1960" width="100" height="100" transform="translate(13141 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1959" data-name="Rectángulo 1959" width="100" height="100" transform="translate(13141 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1964" data-name="Rectángulo 1964" width="100" height="100" transform="translate(13141 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza17" transform="translate(-996 -1332)">
+      <path id="_17" data-name="17" d="M202,450V400h98V300h50a50,50,0,1,0,0-100H300V100H200V50a50,50,0,1,0-100,0v50H0V200H50a50,50,0,1,1,0,100H0V400H102v50a50,50,0,1,0,100,0ZM100,200v0Z" transform="translate(13664 1245)" fill="#7cc8cb"/>
+      <rect id="Rectángulo_2000" data-name="Rectángulo 2000" width="100" height="100" transform="translate(13564 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2001" data-name="Rectángulo 2001" width="100" height="100" transform="translate(13564 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2002" data-name="Rectángulo 2002" width="100" height="100" transform="translate(13564 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2003" data-name="Rectángulo 2003" width="100" height="100" transform="translate(13564 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2004" data-name="Rectángulo 2004" width="100" height="100" transform="translate(13564 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1993" data-name="Rectángulo 1993" width="100" height="100" transform="translate(13664 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1994" data-name="Rectángulo 1994" width="100" height="100" transform="translate(13664 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1995" data-name="Rectángulo 1995" width="100" height="100" transform="translate(13664 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1996" data-name="Rectángulo 1996" width="100" height="100" transform="translate(13664 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2005" data-name="Rectángulo 2005" width="100" height="100" transform="translate(13664 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1990" data-name="Rectángulo 1990" width="100" height="100" transform="translate(13764 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1991" data-name="Rectángulo 1991" width="100" height="100" transform="translate(13764 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1992" data-name="Rectángulo 1992" width="100" height="100" transform="translate(13764 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1997" data-name="Rectángulo 1997" width="100" height="100" transform="translate(13764 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2006" data-name="Rectángulo 2006" width="100" height="100" transform="translate(13764 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1986" data-name="Rectángulo 1986" width="100" height="100" transform="translate(13864 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1987" data-name="Rectángulo 1987" width="100" height="100" transform="translate(13864 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1988" data-name="Rectángulo 1988" width="100" height="100" transform="translate(13864 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1998" data-name="Rectángulo 1998" width="100" height="100" transform="translate(13864 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2007" data-name="Rectángulo 2007" width="100" height="100" transform="translate(13864 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1999" data-name="Rectángulo 1999" width="100" height="100" transform="translate(13964 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2008" data-name="Rectángulo 2008" width="100" height="100" transform="translate(13964 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1985" data-name="Rectángulo 1985" width="100" height="100" transform="translate(13964 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1984" data-name="Rectángulo 1984" width="100" height="100" transform="translate(13964 1245)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1989" data-name="Rectángulo 1989" width="100" height="100" transform="translate(13964 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza19" transform="translate(-2042 -1432)">
+      <path id="pieza19-2" data-name="pieza19" d="M200,350V300H100V200H50a50,50,0,1,1,0-100h50V0H200V0H300V0H400V100h50a50,50,0,1,1,0,100H400V300H300v50a50,50,0,1,1-100,0Z" transform="translate(15610.001 1345) rotate(90)" fill="#325971"/>
+      <rect id="Rectángulo_2050" data-name="Rectángulo 2050" width="100" height="100" transform="translate(15210 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2051" data-name="Rectángulo 2051" width="100" height="100" transform="translate(15210 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2052" data-name="Rectángulo 2052" width="100" height="100" transform="translate(15210 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2053" data-name="Rectángulo 2053" width="100" height="100" transform="translate(15210 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2054" data-name="Rectángulo 2054" width="100" height="100" transform="translate(15210 1745)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2043" data-name="Rectángulo 2043" width="100" height="100" transform="translate(15310 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2044" data-name="Rectángulo 2044" width="100" height="100" transform="translate(15310 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2045" data-name="Rectángulo 2045" width="100" height="100" transform="translate(15310 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2046" data-name="Rectángulo 2046" width="100" height="100" transform="translate(15310 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2055" data-name="Rectángulo 2055" width="100" height="100" transform="translate(15310 1745)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2040" data-name="Rectángulo 2040" width="100" height="100" transform="translate(15410 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2041" data-name="Rectángulo 2041" width="100" height="100" transform="translate(15410 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2042" data-name="Rectángulo 2042" width="100" height="100" transform="translate(15410 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2047" data-name="Rectángulo 2047" width="100" height="100" transform="translate(15410 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2056" data-name="Rectángulo 2056" width="100" height="100" transform="translate(15410 1745)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2036" data-name="Rectángulo 2036" width="100" height="100" transform="translate(15510 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2037" data-name="Rectángulo 2037" width="100" height="100" transform="translate(15510 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2038" data-name="Rectángulo 2038" width="100" height="100" transform="translate(15510 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2048" data-name="Rectángulo 2048" width="100" height="100" transform="translate(15510 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2057" data-name="Rectángulo 2057" width="100" height="100" transform="translate(15510 1745)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2049" data-name="Rectángulo 2049" width="100" height="100" transform="translate(15610 1645)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2058" data-name="Rectángulo 2058" width="100" height="100" transform="translate(15610 1745)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2035" data-name="Rectángulo 2035" width="100" height="100" transform="translate(15610 1445)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2034" data-name="Rectángulo 2034" width="100" height="100" transform="translate(15610 1345)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2039" data-name="Rectángulo 2039" width="100" height="100" transform="translate(15610 1545)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza14" transform="translate(-2042 -888)">
+      <path id="pieza14-2" data-name="pieza14" d="M300,0H200V50a50,50,0,1,1-100,0V0H0V300H100v50a50,50,0,1,0,100,0V300H300V200h50a50,50,0,1,0,0-100H300V0h0Z" transform="translate(15610.001 901) rotate(180)" fill="#457b9d"/>
+      <rect id="Rectángulo_2075" data-name="Rectángulo 2075" width="100" height="100" transform="translate(15210 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2076" data-name="Rectángulo 2076" width="100" height="100" transform="translate(15210 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2077" data-name="Rectángulo 2077" width="100" height="100" transform="translate(15210 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2078" data-name="Rectángulo 2078" width="100" height="100" transform="translate(15210 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2079" data-name="Rectángulo 2079" width="100" height="100" transform="translate(15210 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2068" data-name="Rectángulo 2068" width="100" height="100" transform="translate(15310 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2069" data-name="Rectángulo 2069" width="100" height="100" transform="translate(15310 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2070" data-name="Rectángulo 2070" width="100" height="100" transform="translate(15310 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2071" data-name="Rectángulo 2071" width="100" height="100" transform="translate(15310 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2080" data-name="Rectángulo 2080" width="100" height="100" transform="translate(15310 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2065" data-name="Rectángulo 2065" width="100" height="100" transform="translate(15410 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2066" data-name="Rectángulo 2066" width="100" height="100" transform="translate(15410 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2067" data-name="Rectángulo 2067" width="100" height="100" transform="translate(15410 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2072" data-name="Rectángulo 2072" width="100" height="100" transform="translate(15410 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2081" data-name="Rectángulo 2081" width="100" height="100" transform="translate(15410 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2061" data-name="Rectángulo 2061" width="100" height="100" transform="translate(15510 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2062" data-name="Rectángulo 2062" width="100" height="100" transform="translate(15510 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2063" data-name="Rectángulo 2063" width="100" height="100" transform="translate(15510 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2073" data-name="Rectángulo 2073" width="100" height="100" transform="translate(15510 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2082" data-name="Rectángulo 2082" width="100" height="100" transform="translate(15510 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2074" data-name="Rectángulo 2074" width="100" height="100" transform="translate(15610 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2083" data-name="Rectángulo 2083" width="100" height="100" transform="translate(15610 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2060" data-name="Rectángulo 2060" width="100" height="100" transform="translate(15610 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2059" data-name="Rectángulo 2059" width="100" height="100" transform="translate(15610 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2064" data-name="Rectángulo 2064" width="100" height="100" transform="translate(15610 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza9" transform="translate(-1992 -444)">
+      <path id="pieza9-2" data-name="pieza9" d="M300,0H200V50a50,50,0,1,1-100,0V0H0V300H100v50a50,50,0,1,0,100,0V300H300V200h50a50,50,0,1,0,0-100H300V0h0Z" transform="translate(15560.001 157) rotate(180)" fill="#325971"/>
+      <rect id="Rectángulo_2138" data-name="Rectángulo 2138" width="100" height="100" transform="translate(15160 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2144" data-name="Rectángulo 2144" width="100" height="100" transform="translate(15160 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2139" data-name="Rectángulo 2139" width="100" height="100" transform="translate(15160 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2158" data-name="Rectángulo 2158" width="100" height="100" transform="translate(15160 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2174" data-name="Rectángulo 2174" width="100" height="100" transform="translate(15160 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2134" data-name="Rectángulo 2134" width="100" height="100" transform="translate(15260 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2145" data-name="Rectángulo 2145" width="100" height="100" transform="translate(15260 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2140" data-name="Rectángulo 2140" width="100" height="100" transform="translate(15260 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2163" data-name="Rectángulo 2163" width="100" height="100" transform="translate(15260 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2176" data-name="Rectángulo 2176" width="100" height="100" transform="translate(15260 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2135" data-name="Rectángulo 2135" width="100" height="100" transform="translate(15360 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2146" data-name="Rectángulo 2146" width="100" height="100" transform="translate(15360 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2141" data-name="Rectángulo 2141" width="100" height="100" transform="translate(15360 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2168" data-name="Rectángulo 2168" width="100" height="100" transform="translate(15360 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2178" data-name="Rectángulo 2178" width="100" height="100" transform="translate(15360 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2136" data-name="Rectángulo 2136" width="100" height="100" transform="translate(15460 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2148" data-name="Rectángulo 2148" width="100" height="100" transform="translate(15460 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2142" data-name="Rectángulo 2142" width="100" height="100" transform="translate(15460 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2170" data-name="Rectángulo 2170" width="100" height="100" transform="translate(15460 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2184" data-name="Rectángulo 2184" width="100" height="100" transform="translate(15460 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2172" data-name="Rectángulo 2172" width="100" height="100" transform="translate(15560 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2188" data-name="Rectángulo 2188" width="100" height="100" transform="translate(15560 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2143" data-name="Rectángulo 2143" width="100" height="100" transform="translate(15560 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2137" data-name="Rectángulo 2137" width="100" height="100" transform="translate(15560 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2153" data-name="Rectángulo 2153" width="100" height="100" transform="translate(15560 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza7" transform="translate(-946 -444)">
+      <path id="pieza7-2" data-name="pieza7" d="M198,450V400H100V300H50a50,50,0,1,1,0-100h50V100H200V50a50,50,0,1,1,100,0v50H400V200H350a50,50,0,1,0,0,100h50V400H298v50a50,50,0,1,1-100,0ZM300,200v0Z" transform="translate(14014 -243.001) rotate(90)" fill="#7cc8cb"/>
+      <rect id="Rectángulo_2204" data-name="Rectángulo 2204" width="100" height="100" transform="translate(13514 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2205" data-name="Rectángulo 2205" width="100" height="100" transform="translate(13514 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2206" data-name="Rectángulo 2206" width="100" height="100" transform="translate(13514 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2207" data-name="Rectángulo 2207" width="100" height="100" transform="translate(13514 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2208" data-name="Rectángulo 2208" width="100" height="100" transform="translate(13514 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2194" data-name="Rectángulo 2194" width="100" height="100" transform="translate(13614 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2195" data-name="Rectángulo 2195" width="100" height="100" transform="translate(13614 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2196" data-name="Rectángulo 2196" width="100" height="100" transform="translate(13614 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2197" data-name="Rectángulo 2197" width="100" height="100" transform="translate(13614 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2198" data-name="Rectángulo 2198" width="100" height="100" transform="translate(13614 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2199" data-name="Rectángulo 2199" width="100" height="100" transform="translate(13714 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2200" data-name="Rectángulo 2200" width="100" height="100" transform="translate(13714 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2201" data-name="Rectángulo 2201" width="100" height="100" transform="translate(13714 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2202" data-name="Rectángulo 2202" width="100" height="100" transform="translate(13714 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2203" data-name="Rectángulo 2203" width="100" height="100" transform="translate(13714 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2180" data-name="Rectángulo 2180" width="100" height="100" transform="translate(13814 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2181" data-name="Rectángulo 2181" width="100" height="100" transform="translate(13814 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2182" data-name="Rectángulo 2182" width="100" height="100" transform="translate(13814 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2183" data-name="Rectángulo 2183" width="100" height="100" transform="translate(13814 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2185" data-name="Rectángulo 2185" width="100" height="100" transform="translate(13814 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2187" data-name="Rectángulo 2187" width="100" height="100" transform="translate(13914 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2189" data-name="Rectángulo 2189" width="100" height="100" transform="translate(13914 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2191" data-name="Rectángulo 2191" width="100" height="100" transform="translate(13914 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2192" data-name="Rectángulo 2192" width="100" height="100" transform="translate(13914 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2193" data-name="Rectángulo 2193" width="100" height="100" transform="translate(13914 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza13" transform="translate(-1519 -888)">
+      <path id="pieza13-2" data-name="pieza13" d="M198,450V400H100V300H50a50,50,0,1,1,0-100h50V100H200V50a50,50,0,1,1,100,0v50H400V200H350a50,50,0,1,0,0,100h50V400H298v50a50,50,0,1,1-100,0ZM300,200v0Z" transform="translate(14387 501)" fill="#7cc8cb"/>
+      <rect id="Rectángulo_2125" data-name="Rectángulo 2125" width="100" height="100" transform="translate(14387 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2126" data-name="Rectángulo 2126" width="100" height="100" transform="translate(14387 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2127" data-name="Rectángulo 2127" width="100" height="100" transform="translate(14387 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2128" data-name="Rectángulo 2128" width="100" height="100" transform="translate(14387 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2129" data-name="Rectángulo 2129" width="100" height="100" transform="translate(14387 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2118" data-name="Rectángulo 2118" width="100" height="100" transform="translate(14487 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2119" data-name="Rectángulo 2119" width="100" height="100" transform="translate(14487 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2120" data-name="Rectángulo 2120" width="100" height="100" transform="translate(14487 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2121" data-name="Rectángulo 2121" width="100" height="100" transform="translate(14487 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2130" data-name="Rectángulo 2130" width="100" height="100" transform="translate(14487 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2115" data-name="Rectángulo 2115" width="100" height="100" transform="translate(14587 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2116" data-name="Rectángulo 2116" width="100" height="100" transform="translate(14587 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2117" data-name="Rectángulo 2117" width="100" height="100" transform="translate(14587 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2122" data-name="Rectángulo 2122" width="100" height="100" transform="translate(14587 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2131" data-name="Rectángulo 2131" width="100" height="100" transform="translate(14587 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2111" data-name="Rectángulo 2111" width="100" height="100" transform="translate(14687 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2112" data-name="Rectángulo 2112" width="100" height="100" transform="translate(14687 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2113" data-name="Rectángulo 2113" width="100" height="100" transform="translate(14687 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2123" data-name="Rectángulo 2123" width="100" height="100" transform="translate(14687 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2132" data-name="Rectángulo 2132" width="100" height="100" transform="translate(14687 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2124" data-name="Rectángulo 2124" width="100" height="100" transform="translate(14787 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2133" data-name="Rectángulo 2133" width="100" height="100" transform="translate(14787 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2110" data-name="Rectángulo 2110" width="100" height="100" transform="translate(14787 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2109" data-name="Rectángulo 2109" width="100" height="100" transform="translate(14787 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2114" data-name="Rectángulo 2114" width="100" height="100" transform="translate(14787 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+    </g>
+    <g id="pieza23" transform="translate(-1519 -1876)">
+      <rect id="Rectángulo_1925" data-name="Rectángulo 1925" width="100" height="100" transform="translate(14387 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1926" data-name="Rectángulo 1926" width="100" height="100" transform="translate(14387 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1927" data-name="Rectángulo 1927" width="100" height="100" transform="translate(14387 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1928" data-name="Rectángulo 1928" width="100" height="100" transform="translate(14387 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1929" data-name="Rectángulo 1929" width="100" height="100" transform="translate(14387 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1918" data-name="Rectángulo 1918" width="100" height="100" transform="translate(14487 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1919" data-name="Rectángulo 1919" width="100" height="100" transform="translate(14487 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1920" data-name="Rectángulo 1920" width="100" height="100" transform="translate(14487 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1921" data-name="Rectángulo 1921" width="100" height="100" transform="translate(14487 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1930" data-name="Rectángulo 1930" width="100" height="100" transform="translate(14487 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1915" data-name="Rectángulo 1915" width="100" height="100" transform="translate(14587 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1916" data-name="Rectángulo 1916" width="100" height="100" transform="translate(14587 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1917" data-name="Rectángulo 1917" width="100" height="100" transform="translate(14587 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1922" data-name="Rectángulo 1922" width="100" height="100" transform="translate(14587 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1931" data-name="Rectángulo 1931" width="100" height="100" transform="translate(14587 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1911" data-name="Rectángulo 1911" width="100" height="100" transform="translate(14687 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1912" data-name="Rectángulo 1912" width="100" height="100" transform="translate(14687 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1913" data-name="Rectángulo 1913" width="100" height="100" transform="translate(14687 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1923" data-name="Rectángulo 1923" width="100" height="100" transform="translate(14687 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1932" data-name="Rectángulo 1932" width="100" height="100" transform="translate(14687 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1924" data-name="Rectángulo 1924" width="100" height="100" transform="translate(14787 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1933" data-name="Rectángulo 1933" width="100" height="100" transform="translate(14787 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1910" data-name="Rectángulo 1910" width="100" height="100" transform="translate(14787 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1909" data-name="Rectángulo 1909" width="100" height="100" transform="translate(14787 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1914" data-name="Rectángulo 1914" width="100" height="100" transform="translate(14787 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza23-2" data-name="pieza23" d="M300,300H200V250a50,50,0,1,0-100,0v50H0V200H50a50,50,0,1,0,0-100H0V0H100V0H200V0H300V100h50a50,50,0,1,1,0,100H300V300h0Z" transform="translate(14787.001 2489) rotate(180)" fill="#325971"/>
+    </g>
+    <g id="pieza22" transform="translate(-996 -1876)">
+      <rect id="Rectángulo_1900" data-name="Rectángulo 1900" width="100" height="100" transform="translate(13564 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1901" data-name="Rectángulo 1901" width="100" height="100" transform="translate(13564 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1902" data-name="Rectángulo 1902" width="100" height="100" transform="translate(13564 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1903" data-name="Rectángulo 1903" width="100" height="100" transform="translate(13564 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1904" data-name="Rectángulo 1904" width="100" height="100" transform="translate(13564 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1893" data-name="Rectángulo 1893" width="100" height="100" transform="translate(13664 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1894" data-name="Rectángulo 1894" width="100" height="100" transform="translate(13664 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1895" data-name="Rectángulo 1895" width="100" height="100" transform="translate(13664 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1896" data-name="Rectángulo 1896" width="100" height="100" transform="translate(13664 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1905" data-name="Rectángulo 1905" width="100" height="100" transform="translate(13664 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1890" data-name="Rectángulo 1890" width="100" height="100" transform="translate(13764 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1891" data-name="Rectángulo 1891" width="100" height="100" transform="translate(13764 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1892" data-name="Rectángulo 1892" width="100" height="100" transform="translate(13764 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1897" data-name="Rectángulo 1897" width="100" height="100" transform="translate(13764 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1906" data-name="Rectángulo 1906" width="100" height="100" transform="translate(13764 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1886" data-name="Rectángulo 1886" width="100" height="100" transform="translate(13864 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1887" data-name="Rectángulo 1887" width="100" height="100" transform="translate(13864 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1888" data-name="Rectángulo 1888" width="100" height="100" transform="translate(13864 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1898" data-name="Rectángulo 1898" width="100" height="100" transform="translate(13864 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1907" data-name="Rectángulo 1907" width="100" height="100" transform="translate(13864 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1899" data-name="Rectángulo 1899" width="100" height="100" transform="translate(13964 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1908" data-name="Rectángulo 1908" width="100" height="100" transform="translate(13964 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1885" data-name="Rectángulo 1885" width="100" height="100" transform="translate(13964 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1884" data-name="Rectángulo 1884" width="100" height="100" transform="translate(13964 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1889" data-name="Rectángulo 1889" width="100" height="100" transform="translate(13964 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza22-2" data-name="pieza22" d="M300,300H200V250a50,50,0,1,0-100,0v50H0V200H50a50,50,0,1,0,0-100H0V0H100V0H200V0H300V100h50a50,50,0,1,1,0,100H300V300h0Z" transform="translate(13964.001 2489) rotate(180)" fill="#457b9d"/>
+    </g>
+    <g id="pieza10" transform="translate(0 -888)">
+      <rect id="Rectángulo_1784" data-name="Rectángulo 1784" width="100" height="100" transform="translate(11968 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1788" data-name="Rectángulo 1788" width="100" height="100" transform="translate(11968 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1785" data-name="Rectángulo 1785" width="100" height="100" transform="translate(11968 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1789" data-name="Rectángulo 1789" width="100" height="100" transform="translate(11968 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1804" data-name="Rectángulo 1804" width="100" height="100" transform="translate(11968 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1786" data-name="Rectángulo 1786" width="100" height="100" transform="translate(12068 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1790" data-name="Rectángulo 1790" width="100" height="100" transform="translate(12068 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1787" data-name="Rectángulo 1787" width="100" height="100" transform="translate(12068 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1791" data-name="Rectángulo 1791" width="100" height="100" transform="translate(12068 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1805" data-name="Rectángulo 1805" width="100" height="100" transform="translate(12068 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1792" data-name="Rectángulo 1792" width="100" height="100" transform="translate(12168 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1793" data-name="Rectángulo 1793" width="100" height="100" transform="translate(12168 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1794" data-name="Rectángulo 1794" width="100" height="100" transform="translate(12168 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1795" data-name="Rectángulo 1795" width="100" height="100" transform="translate(12168 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1806" data-name="Rectángulo 1806" width="100" height="100" transform="translate(12168 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1796" data-name="Rectángulo 1796" width="100" height="100" transform="translate(12268 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1797" data-name="Rectángulo 1797" width="100" height="100" transform="translate(12268 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1798" data-name="Rectángulo 1798" width="100" height="100" transform="translate(12268 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1799" data-name="Rectángulo 1799" width="100" height="100" transform="translate(12268 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1807" data-name="Rectángulo 1807" width="100" height="100" transform="translate(12268 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1800" data-name="Rectángulo 1800" width="100" height="100" transform="translate(12368 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1808" data-name="Rectángulo 1808" width="100" height="100" transform="translate(12368 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1801" data-name="Rectángulo 1801" width="100" height="100" transform="translate(12368 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1802" data-name="Rectángulo 1802" width="100" height="100" transform="translate(12368 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1803" data-name="Rectángulo 1803" width="100" height="100" transform="translate(12368 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza10-2" data-name="pieza10" d="M100,300H200V250a50,50,0,1,1,100,0v50H400V200H350a50,50,0,1,1,0-100h50V0H300V0H200V0H100V100H50a50,50,0,1,0,0,100h50V300h0Z" transform="translate(12068 1001) rotate(-90)" fill="#457b9d"/>
+    </g>
+    <g id="pieza3" transform="translate(-1469)">
+      <rect id="Rectángulo_2230" data-name="Rectángulo 2230" width="100" height="100" transform="translate(14337 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2231" data-name="Rectángulo 2231" width="100" height="100" transform="translate(14337 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2232" data-name="Rectángulo 2232" width="100" height="100" transform="translate(14337 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2234" data-name="Rectángulo 2234" width="100" height="100" transform="translate(14337 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2250" data-name="Rectángulo 2250" width="100" height="100" transform="translate(14337 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2235" data-name="Rectángulo 2235" width="100" height="100" transform="translate(14437 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2236" data-name="Rectángulo 2236" width="100" height="100" transform="translate(14437 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2237" data-name="Rectángulo 2237" width="100" height="100" transform="translate(14437 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2239" data-name="Rectángulo 2239" width="100" height="100" transform="translate(14437 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2252" data-name="Rectángulo 2252" width="100" height="100" transform="translate(14437 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2240" data-name="Rectángulo 2240" width="100" height="100" transform="translate(14537 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2241" data-name="Rectángulo 2241" width="100" height="100" transform="translate(14537 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2242" data-name="Rectángulo 2242" width="100" height="100" transform="translate(14537 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2244" data-name="Rectángulo 2244" width="100" height="100" transform="translate(14537 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2254" data-name="Rectángulo 2254" width="100" height="100" transform="translate(14537 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2222" data-name="Rectángulo 2222" width="100" height="100" transform="translate(14637 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2224" data-name="Rectángulo 2224" width="100" height="100" transform="translate(14637 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2225" data-name="Rectángulo 2225" width="100" height="100" transform="translate(14637 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2246" data-name="Rectángulo 2246" width="100" height="100" transform="translate(14637 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2261" data-name="Rectángulo 2261" width="100" height="100" transform="translate(14637 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2248" data-name="Rectángulo 2248" width="100" height="100" transform="translate(14737 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2265" data-name="Rectángulo 2265" width="100" height="100" transform="translate(14737 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2226" data-name="Rectángulo 2226" width="100" height="100" transform="translate(14737 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2227" data-name="Rectángulo 2227" width="100" height="100" transform="translate(14737 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2229" data-name="Rectángulo 2229" width="100" height="100" transform="translate(14737 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza" d="M300,300H200V250a50,50,0,1,0-100,0v50H0V200H50a50,50,0,1,0,0-100H0V0H100V0H200V0H300V100h50a50,50,0,1,1,0,100H300V300h0Z" transform="translate(14437 -887.002)" fill="#325971"/>
+    </g>
+    <g id="pieza2" transform="translate(-946)">
+      <rect id="Rectángulo_2279" data-name="Rectángulo 2279" width="100" height="100" transform="translate(13514 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2280" data-name="Rectángulo 2280" width="100" height="100" transform="translate(13514 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2281" data-name="Rectángulo 2281" width="100" height="100" transform="translate(13514 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2282" data-name="Rectángulo 2282" width="100" height="100" transform="translate(13514 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2283" data-name="Rectángulo 2283" width="100" height="100" transform="translate(13514 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2269" data-name="Rectángulo 2269" width="100" height="100" transform="translate(13614 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2270" data-name="Rectángulo 2270" width="100" height="100" transform="translate(13614 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2271" data-name="Rectángulo 2271" width="100" height="100" transform="translate(13614 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2272" data-name="Rectángulo 2272" width="100" height="100" transform="translate(13614 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2273" data-name="Rectángulo 2273" width="100" height="100" transform="translate(13614 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2274" data-name="Rectángulo 2274" width="100" height="100" transform="translate(13714 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2275" data-name="Rectángulo 2275" width="100" height="100" transform="translate(13714 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2276" data-name="Rectángulo 2276" width="100" height="100" transform="translate(13714 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2277" data-name="Rectángulo 2277" width="100" height="100" transform="translate(13714 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2278" data-name="Rectángulo 2278" width="100" height="100" transform="translate(13714 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2255" data-name="Rectángulo 2255" width="100" height="100" transform="translate(13814 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2256" data-name="Rectángulo 2256" width="100" height="100" transform="translate(13814 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2257" data-name="Rectángulo 2257" width="100" height="100" transform="translate(13814 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2258" data-name="Rectángulo 2258" width="100" height="100" transform="translate(13814 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2260" data-name="Rectángulo 2260" width="100" height="100" transform="translate(13814 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2262" data-name="Rectángulo 2262" width="100" height="100" transform="translate(13914 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2264" data-name="Rectángulo 2264" width="100" height="100" transform="translate(13914 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2266" data-name="Rectángulo 2266" width="100" height="100" transform="translate(13914 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2267" data-name="Rectángulo 2267" width="100" height="100" transform="translate(13914 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2268" data-name="Rectángulo 2268" width="100" height="100" transform="translate(13914 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza2-2" data-name="pieza2" d="M400,300H300V250a50,50,0,1,0-100,0v50H100V200H50a50,50,0,1,1,0-100h50V0H200V0H300V0H400V100h50a50,50,0,1,1,0,100H400V300h0Z" transform="translate(13514 -887.002)" fill="#457b9d"/>
+    </g>
+    <g id="pieza0">
+      <rect id="Rectángulo_1299" data-name="Rectángulo 1299" width="100" height="100" transform="translate(11968 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1300" data-name="Rectángulo 1300" width="100" height="100" transform="translate(11968 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1301" data-name="Rectángulo 1301" width="100" height="100" transform="translate(11968 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1302" data-name="Rectángulo 1302" width="100" height="100" transform="translate(11968 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1303" data-name="Rectángulo 1303" width="100" height="100" transform="translate(11968 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1291" data-name="Rectángulo 1291" width="100" height="100" transform="translate(12068 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1292" data-name="Rectángulo 1292" width="100" height="100" transform="translate(12068 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1293" data-name="Rectángulo 1293" width="100" height="100" transform="translate(12068 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1294" data-name="Rectángulo 1294" width="100" height="100" transform="translate(12068 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1295" data-name="Rectángulo 1295" width="100" height="100" transform="translate(12068 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1285" data-name="Rectángulo 1285" width="100" height="100" transform="translate(12168 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1286" data-name="Rectángulo 1286" width="100" height="100" transform="translate(12168 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1287" data-name="Rectángulo 1287" width="100" height="100" transform="translate(12168 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1288" data-name="Rectángulo 1288" width="100" height="100" transform="translate(12168 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1296" data-name="Rectángulo 1296" width="100" height="100" transform="translate(12168 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1281" data-name="Rectángulo 1281" width="100" height="100" transform="translate(12268 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1283" data-name="Rectángulo 1283" width="100" height="100" transform="translate(12268 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1282" data-name="Rectángulo 1282" width="100" height="100" transform="translate(12268 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1289" data-name="Rectángulo 1289" width="100" height="100" transform="translate(12268 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1297" data-name="Rectángulo 1297" width="100" height="100" transform="translate(12268 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1290" data-name="Rectángulo 1290" width="100" height="100" transform="translate(12368 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1298" data-name="Rectángulo 1298" width="100" height="100" transform="translate(12368 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1280" data-name="Rectángulo 1280" width="100" height="100" transform="translate(12368 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1279" data-name="Rectángulo 1279" width="100" height="100" transform="translate(12368 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1284" data-name="Rectángulo 1284" width="100" height="100" transform="translate(12368 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza0-2" data-name="pieza0" d="M0,300H100V250a50,50,0,1,1,100,0v50H300V200h50a50,50,0,1,0,0-100H300V0H200V0H100V0H0V300H0Z" transform="translate(12068 -887.001)" fill="#1d3557"/>
+    </g>
+    <g id="pieza20" transform="translate(50 -1876)">
+      <rect id="Rectángulo_1850" data-name="Rectángulo 1850" width="100" height="100" transform="translate(11918 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1851" data-name="Rectángulo 1851" width="100" height="100" transform="translate(11918 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1852" data-name="Rectángulo 1852" width="100" height="100" transform="translate(11918 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1853" data-name="Rectángulo 1853" width="100" height="100" transform="translate(11918 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1854" data-name="Rectángulo 1854" width="100" height="100" transform="translate(11918 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1843" data-name="Rectángulo 1843" width="100" height="100" transform="translate(12018 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1844" data-name="Rectángulo 1844" width="100" height="100" transform="translate(12018 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1845" data-name="Rectángulo 1845" width="100" height="100" transform="translate(12018 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1846" data-name="Rectángulo 1846" width="100" height="100" transform="translate(12018 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1855" data-name="Rectángulo 1855" width="100" height="100" transform="translate(12018 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1840" data-name="Rectángulo 1840" width="100" height="100" transform="translate(12118 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1841" data-name="Rectángulo 1841" width="100" height="100" transform="translate(12118 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1842" data-name="Rectángulo 1842" width="100" height="100" transform="translate(12118 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1847" data-name="Rectángulo 1847" width="100" height="100" transform="translate(12118 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1856" data-name="Rectángulo 1856" width="100" height="100" transform="translate(12118 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1836" data-name="Rectángulo 1836" width="100" height="100" transform="translate(12218 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1837" data-name="Rectángulo 1837" width="100" height="100" transform="translate(12218 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1838" data-name="Rectángulo 1838" width="100" height="100" transform="translate(12218 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1848" data-name="Rectángulo 1848" width="100" height="100" transform="translate(12218 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1857" data-name="Rectángulo 1857" width="100" height="100" transform="translate(12218 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1849" data-name="Rectángulo 1849" width="100" height="100" transform="translate(12318 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1858" data-name="Rectángulo 1858" width="100" height="100" transform="translate(12318 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1835" data-name="Rectángulo 1835" width="100" height="100" transform="translate(12318 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1834" data-name="Rectángulo 1834" width="100" height="100" transform="translate(12318 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1839" data-name="Rectángulo 1839" width="100" height="100" transform="translate(12318 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza20-2" data-name="pieza20" d="M0,300H100V250a50,50,0,1,1,100,0v50H300V200h50a50,50,0,1,0,0-100H300V0H200V0H100V0H0V300H0Z" transform="translate(12018 2489) rotate(-90)" fill="#1d3557"/>
+    </g>
+    <g id="pieza24" transform="translate(-2042 -1876)">
+      <rect id="Rectángulo_1950" data-name="Rectángulo 1950" width="100" height="100" transform="translate(15210 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1951" data-name="Rectángulo 1951" width="100" height="100" transform="translate(15210 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1952" data-name="Rectángulo 1952" width="100" height="100" transform="translate(15210 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1953" data-name="Rectángulo 1953" width="100" height="100" transform="translate(15210 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1954" data-name="Rectángulo 1954" width="100" height="100" transform="translate(15210 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1943" data-name="Rectángulo 1943" width="100" height="100" transform="translate(15310 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1944" data-name="Rectángulo 1944" width="100" height="100" transform="translate(15310 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1945" data-name="Rectángulo 1945" width="100" height="100" transform="translate(15310 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1946" data-name="Rectángulo 1946" width="100" height="100" transform="translate(15310 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1955" data-name="Rectángulo 1955" width="100" height="100" transform="translate(15310 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1940" data-name="Rectángulo 1940" width="100" height="100" transform="translate(15410 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1941" data-name="Rectángulo 1941" width="100" height="100" transform="translate(15410 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1942" data-name="Rectángulo 1942" width="100" height="100" transform="translate(15410 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1947" data-name="Rectángulo 1947" width="100" height="100" transform="translate(15410 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1956" data-name="Rectángulo 1956" width="100" height="100" transform="translate(15410 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1936" data-name="Rectángulo 1936" width="100" height="100" transform="translate(15510 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1937" data-name="Rectángulo 1937" width="100" height="100" transform="translate(15510 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1938" data-name="Rectángulo 1938" width="100" height="100" transform="translate(15510 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1948" data-name="Rectángulo 1948" width="100" height="100" transform="translate(15510 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1957" data-name="Rectángulo 1957" width="100" height="100" transform="translate(15510 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1949" data-name="Rectángulo 1949" width="100" height="100" transform="translate(15610 2389)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1958" data-name="Rectángulo 1958" width="100" height="100" transform="translate(15610 2489)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1935" data-name="Rectángulo 1935" width="100" height="100" transform="translate(15610 2189)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1934" data-name="Rectángulo 1934" width="100" height="100" transform="translate(15610 2089)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1939" data-name="Rectángulo 1939" width="100" height="100" transform="translate(15610 2289)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza24-2" data-name="pieza24" d="M0,300H100V250a50,50,0,1,1,100,0v50H300V200h50a50,50,0,1,0,0-100H300V0H200V0H100V0H0V300H0Z" transform="translate(15610 2489.001) rotate(180)" fill="#1d3557"/>
+    </g>
+    <g id="pieza4" transform="translate(-1992)">
+      <rect id="Rectángulo_2213" data-name="Rectángulo 2213" width="100" height="100" transform="translate(15160 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2219" data-name="Rectángulo 2219" width="100" height="100" transform="translate(15160 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2214" data-name="Rectángulo 2214" width="100" height="100" transform="translate(15160 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2233" data-name="Rectángulo 2233" width="100" height="100" transform="translate(15160 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2249" data-name="Rectángulo 2249" width="100" height="100" transform="translate(15160 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2209" data-name="Rectángulo 2209" width="100" height="100" transform="translate(15260 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2220" data-name="Rectángulo 2220" width="100" height="100" transform="translate(15260 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2215" data-name="Rectángulo 2215" width="100" height="100" transform="translate(15260 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2238" data-name="Rectángulo 2238" width="100" height="100" transform="translate(15260 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2251" data-name="Rectángulo 2251" width="100" height="100" transform="translate(15260 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2210" data-name="Rectángulo 2210" width="100" height="100" transform="translate(15360 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2221" data-name="Rectángulo 2221" width="100" height="100" transform="translate(15360 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2216" data-name="Rectángulo 2216" width="100" height="100" transform="translate(15360 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2243" data-name="Rectángulo 2243" width="100" height="100" transform="translate(15360 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2253" data-name="Rectángulo 2253" width="100" height="100" transform="translate(15360 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2211" data-name="Rectángulo 2211" width="100" height="100" transform="translate(15460 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2223" data-name="Rectángulo 2223" width="100" height="100" transform="translate(15460 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2217" data-name="Rectángulo 2217" width="100" height="100" transform="translate(15460 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2245" data-name="Rectángulo 2245" width="100" height="100" transform="translate(15460 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2259" data-name="Rectángulo 2259" width="100" height="100" transform="translate(15460 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2247" data-name="Rectángulo 2247" width="100" height="100" transform="translate(15560 -687)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2263" data-name="Rectángulo 2263" width="100" height="100" transform="translate(15560 -587)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2218" data-name="Rectángulo 2218" width="100" height="100" transform="translate(15560 -887)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2212" data-name="Rectángulo 2212" width="100" height="100" transform="translate(15560 -987)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2228" data-name="Rectángulo 2228" width="100" height="100" transform="translate(15560 -787)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza4-2" data-name="pieza4" d="M300,300H200V250a50,50,0,1,0-100,0v50H0V200H50a50,50,0,1,0,0-100H0V0H100V0H200V0H300V300Z" transform="translate(15260 -887.002)" fill="#1d3557"/>
+    </g>
+    <g id="pieza6" transform="translate(-473 -444)">
+      <rect id="Rectángulo_1754" data-name="Rectángulo 1754" width="100" height="100" transform="translate(12741 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1755" data-name="Rectángulo 1755" width="100" height="100" transform="translate(12741 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1756" data-name="Rectángulo 1756" width="100" height="100" transform="translate(12741 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1757" data-name="Rectángulo 1757" width="100" height="100" transform="translate(12741 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1758" data-name="Rectángulo 1758" width="100" height="100" transform="translate(12741 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1746" data-name="Rectángulo 1746" width="100" height="100" transform="translate(12841 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1747" data-name="Rectángulo 1747" width="100" height="100" transform="translate(12841 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1748" data-name="Rectángulo 1748" width="100" height="100" transform="translate(12841 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1749" data-name="Rectángulo 1749" width="100" height="100" transform="translate(12841 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1750" data-name="Rectángulo 1750" width="100" height="100" transform="translate(12841 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1742" data-name="Rectángulo 1742" width="100" height="100" transform="translate(12941 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1743" data-name="Rectángulo 1743" width="100" height="100" transform="translate(12941 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1744" data-name="Rectángulo 1744" width="100" height="100" transform="translate(12941 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1745" data-name="Rectángulo 1745" width="100" height="100" transform="translate(12941 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1751" data-name="Rectángulo 1751" width="100" height="100" transform="translate(12941 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1737" data-name="Rectángulo 1737" width="100" height="100" transform="translate(13041 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1738" data-name="Rectángulo 1738" width="100" height="100" transform="translate(13041 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1739" data-name="Rectángulo 1739" width="100" height="100" transform="translate(13041 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1740" data-name="Rectángulo 1740" width="100" height="100" transform="translate(13041 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1752" data-name="Rectángulo 1752" width="100" height="100" transform="translate(13041 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1741" data-name="Rectángulo 1741" width="100" height="100" transform="translate(13141 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1753" data-name="Rectángulo 1753" width="100" height="100" transform="translate(13141 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1734" data-name="Rectángulo 1734" width="100" height="100" transform="translate(13141 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1735" data-name="Rectángulo 1735" width="100" height="100" transform="translate(13141 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1736" data-name="Rectángulo 1736" width="100" height="100" transform="translate(13141 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza6-2" data-name="pieza6" d="M400,300H300V250a50,50,0,1,0-100,0v50H100V200H50a50,50,0,1,1,0-100h50V0H200V50c0,.074,0,.15,0,.224V50.5A50,50,0,0,0,300,50V0H400V100h50a50,50,0,1,1,0,100H400V300h0Z" transform="translate(12840.999 257) rotate(-90)" fill="#457b9d"/>
+    </g>
+    <g id="pieza11" transform="translate(-473 -888)">
+      <rect id="Rectángulo_1779" data-name="Rectángulo 1779" width="100" height="100" transform="translate(12741 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1780" data-name="Rectángulo 1780" width="100" height="100" transform="translate(12741 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1781" data-name="Rectángulo 1781" width="100" height="100" transform="translate(12741 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1782" data-name="Rectángulo 1782" width="100" height="100" transform="translate(12741 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1783" data-name="Rectángulo 1783" width="100" height="100" transform="translate(12741 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1771" data-name="Rectángulo 1771" width="100" height="100" transform="translate(12841 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1772" data-name="Rectángulo 1772" width="100" height="100" transform="translate(12841 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1773" data-name="Rectángulo 1773" width="100" height="100" transform="translate(12841 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1774" data-name="Rectángulo 1774" width="100" height="100" transform="translate(12841 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1775" data-name="Rectángulo 1775" width="100" height="100" transform="translate(12841 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1767" data-name="Rectángulo 1767" width="100" height="100" transform="translate(12941 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1768" data-name="Rectángulo 1768" width="100" height="100" transform="translate(12941 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1769" data-name="Rectángulo 1769" width="100" height="100" transform="translate(12941 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1770" data-name="Rectángulo 1770" width="100" height="100" transform="translate(12941 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1776" data-name="Rectángulo 1776" width="100" height="100" transform="translate(12941 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1762" data-name="Rectángulo 1762" width="100" height="100" transform="translate(13041 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1763" data-name="Rectángulo 1763" width="100" height="100" transform="translate(13041 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1764" data-name="Rectángulo 1764" width="100" height="100" transform="translate(13041 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1765" data-name="Rectángulo 1765" width="100" height="100" transform="translate(13041 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1777" data-name="Rectángulo 1777" width="100" height="100" transform="translate(13041 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1766" data-name="Rectángulo 1766" width="100" height="100" transform="translate(13141 801)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1778" data-name="Rectángulo 1778" width="100" height="100" transform="translate(13141 901)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1759" data-name="Rectángulo 1759" width="100" height="100" transform="translate(13141 601)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1760" data-name="Rectángulo 1760" width="100" height="100" transform="translate(13141 501)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_1761" data-name="Rectángulo 1761" width="100" height="100" transform="translate(13141 701)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza11-2" data-name="pieza11" d="M400,300H300V250a50,50,0,1,0-100,0v50H100V200H50a50,50,0,1,1,0-100h50V0H200V50c0,.074,0,.15,0,.224V50.5A50,50,0,0,0,300,50V0H400V100H350a50,50,0,1,0,0,100h50V300h0Z" transform="translate(12740.999 600.999)" fill="#7cc8cb"/>
+    </g>
+    <g id="pieza18" transform="translate(-1519 -1382)">
+      <rect id="Rectángulo_2025" data-name="Rectángulo 2025" width="100" height="100" transform="translate(14387 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2026" data-name="Rectángulo 2026" width="100" height="100" transform="translate(14387 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2027" data-name="Rectángulo 2027" width="100" height="100" transform="translate(14387 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2028" data-name="Rectángulo 2028" width="100" height="100" transform="translate(14387 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2029" data-name="Rectángulo 2029" width="100" height="100" transform="translate(14387 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2018" data-name="Rectángulo 2018" width="100" height="100" transform="translate(14487 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2019" data-name="Rectángulo 2019" width="100" height="100" transform="translate(14487 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2020" data-name="Rectángulo 2020" width="100" height="100" transform="translate(14487 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2021" data-name="Rectángulo 2021" width="100" height="100" transform="translate(14487 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2030" data-name="Rectángulo 2030" width="100" height="100" transform="translate(14487 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2015" data-name="Rectángulo 2015" width="100" height="100" transform="translate(14587 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2016" data-name="Rectángulo 2016" width="100" height="100" transform="translate(14587 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2017" data-name="Rectángulo 2017" width="100" height="100" transform="translate(14587 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2022" data-name="Rectángulo 2022" width="100" height="100" transform="translate(14587 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2031" data-name="Rectángulo 2031" width="100" height="100" transform="translate(14587 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2011" data-name="Rectángulo 2011" width="100" height="100" transform="translate(14687 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2012" data-name="Rectángulo 2012" width="100" height="100" transform="translate(14687 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2013" data-name="Rectángulo 2013" width="100" height="100" transform="translate(14687 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2023" data-name="Rectángulo 2023" width="100" height="100" transform="translate(14687 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2032" data-name="Rectángulo 2032" width="100" height="100" transform="translate(14687 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2024" data-name="Rectángulo 2024" width="100" height="100" transform="translate(14787 1595)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2033" data-name="Rectángulo 2033" width="100" height="100" transform="translate(14787 1695)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2010" data-name="Rectángulo 2010" width="100" height="100" transform="translate(14787 1395)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2009" data-name="Rectángulo 2009" width="100" height="100" transform="translate(14787 1295)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2014" data-name="Rectángulo 2014" width="100" height="100" transform="translate(14787 1495)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza18-2" data-name="pieza18" d="M400,300H300V250a50,50,0,1,0-100,0v50H100V200H50a50,50,0,1,1,0-100h50V0H200V50c0,.074,0,.15,0,.224V50.5A50,50,0,0,0,300,50V0H400V100H350a50,50,0,1,0,0,100h50V300h0Z" transform="translate(14487 1795) rotate(-90)" fill="#457b9d"/>
+    </g>
+    <g id="pieza8" transform="translate(-1469 -444)">
+      <rect id="Rectángulo_2155" data-name="Rectángulo 2155" width="100" height="100" transform="translate(14337 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2156" data-name="Rectángulo 2156" width="100" height="100" transform="translate(14337 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2157" data-name="Rectángulo 2157" width="100" height="100" transform="translate(14337 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2159" data-name="Rectángulo 2159" width="100" height="100" transform="translate(14337 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2175" data-name="Rectángulo 2175" width="100" height="100" transform="translate(14337 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2160" data-name="Rectángulo 2160" width="100" height="100" transform="translate(14437 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2161" data-name="Rectángulo 2161" width="100" height="100" transform="translate(14437 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2162" data-name="Rectángulo 2162" width="100" height="100" transform="translate(14437 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2164" data-name="Rectángulo 2164" width="100" height="100" transform="translate(14437 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2177" data-name="Rectángulo 2177" width="100" height="100" transform="translate(14437 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2165" data-name="Rectángulo 2165" width="100" height="100" transform="translate(14537 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2166" data-name="Rectángulo 2166" width="100" height="100" transform="translate(14537 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2167" data-name="Rectángulo 2167" width="100" height="100" transform="translate(14537 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2169" data-name="Rectángulo 2169" width="100" height="100" transform="translate(14537 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2179" data-name="Rectángulo 2179" width="100" height="100" transform="translate(14537 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2147" data-name="Rectángulo 2147" width="100" height="100" transform="translate(14637 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2149" data-name="Rectángulo 2149" width="100" height="100" transform="translate(14637 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2150" data-name="Rectángulo 2150" width="100" height="100" transform="translate(14637 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2171" data-name="Rectángulo 2171" width="100" height="100" transform="translate(14637 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2186" data-name="Rectángulo 2186" width="100" height="100" transform="translate(14637 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2173" data-name="Rectángulo 2173" width="100" height="100" transform="translate(14737 57)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2190" data-name="Rectángulo 2190" width="100" height="100" transform="translate(14737 157)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2151" data-name="Rectángulo 2151" width="100" height="100" transform="translate(14737 -143)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2152" data-name="Rectángulo 2152" width="100" height="100" transform="translate(14737 -243)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <rect id="Rectángulo_2154" data-name="Rectángulo 2154" width="100" height="100" transform="translate(14737 -43)" fill="rgba(255,255,255,0)" opacity="0.12"/>
+      <path id="pieza8-2" data-name="pieza8" d="M400,300H300V250a50,50,0,1,0-100,0v50H100V200H50a50,50,0,1,1,0-100h50V0H200V50c0,.074,0,.15,0,.224V50.5A50,50,0,0,0,300,50V0H400V100H350a50,50,0,1,0,0,100h50V300h0Z" transform="translate(14737.002 -243) rotate(90)" fill="#457b9d"/>
+    </g>
+  </g>
+</svg>

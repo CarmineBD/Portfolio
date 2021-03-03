@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Probando backgrounds</title>
+	<style type="text/css">
+
+		*{
+			margin: 0;
+			padding: 0;
+			transition:1s;
+		}
+
+		header{
+			width: 100vw;
+			height: 100vh;
+		}
+
+		header>section{
+			overflow: hidden;
+			position: relative;
+			width: 100vw;
+			height: 100vh;
+		}
+
+		header>section>article{
+			position: absolute;
+			width: 100vw;
+			height: 100vh;
+		}
+
+		header>section>article>figure{
+			z-index: 0;
+			position: absolute;
+			width: 100vw;
+			height: 100vh;
+			background-size: cover;
+		}
+
+		article:nth-of-type(1) figure{background-image: url('img/background1.jpg'); left: 50vw; animation: aparecer 20s 0s infinite forwards; clip: rect(0,100vw,100vh,50vw)}
+
+		article:nth-of-type(2) figure{background-image: url('img/background2.jpg'); left: 50vw; animation: aparecer 20s 5s infinite forwards; clip: rect(0,100vw,100vh,50vw)}
+
+		article:nth-of-type(3) figure{background-image: url('img/background3.jpg'); left: 50vw; animation: aparecer 20s 10s infinite forwards; clip: rect(0,100vw,100vh,50vw)}
+
+		article:nth-of-type(4) figure{background-image: url('img/barcelona.jpg'); left: 50vw; animation: aparecer 20s 15s infinite forwards; clip: rect(0,100vw,100vh,50vw)}
+
+
+
+		@keyframes aparecer{
+			0%{ left: 50vw; z-index: 2}
+			5%, 25%{left: 0vw; clip: rect(0,100vw,100vh,0vw); z-index: 2;}
+			30%,100%{left: -50vw; z-index: 0}
+
+		}
+
+	
+
+		/*body:hover article:nth-of-type(2) figure{ clip: rect(0,100vw,100vh,0); left: 0vw}
+		body:hover article:nth-of-type(1) figure{left: -50vw}
+*/
+
+
+
+	</style>
+</head>
+<body>
+	<header>
+		<section>
+			<article>
+				<figure></figure>
+			</article>
+			<article>
+				<figure></figure>
+			</article>
+			<article>
+				<figure></figure>
+			</article>
+			<article>
+				<figure></figure>
+			</article>
+		</section>	
+	</header>
+</body>
+</html>
